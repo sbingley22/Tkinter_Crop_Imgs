@@ -1,0 +1,1 @@
+A simple python tkinter app where the user can crop an image by specific measurements.
